@@ -22,7 +22,7 @@ Carla
 
 In this condition, the front vehicle / obstacle is in stationary condition. Ego vehicle stops behind the obstacle by keeping the safe distance, to avoid the collision
 
-<p><img align="left" src="https://github.com/Sheikfarooq/Covid-19_simulation/blob/main/Covid_Simulation.gif" width="500" /></p>
+<p><img align="left" src="https://github.com/Sheikfarooq/Intelligent_driver_model/blob/main/Obstacle_Stationary.gif" width="500" /></p>
 
 ## Scenario - II
 
