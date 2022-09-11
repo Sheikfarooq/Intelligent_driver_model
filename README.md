@@ -32,6 +32,12 @@ In this condition, the front vehicle / obstacle is in stationary condition. Ego 
 
 
 
+
+
+
+
+
+
 ## Scenario - II
 
 In this condition, the front vehicle / obstacle is in moving condition, but its velocity is less compared to the ego vehicle. Ego vehicle adjusts its speed based on the front vehicle's speed to avoid collision.
